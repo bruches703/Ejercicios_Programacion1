@@ -1,1 +1,2 @@
-# Ejercicios_Programacion1
+# Ejercicios de Programacion 1
+# Ejercicios para practicar sobre la materia
