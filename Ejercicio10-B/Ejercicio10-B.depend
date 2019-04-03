@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553452157 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\ejercicio10-b\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
